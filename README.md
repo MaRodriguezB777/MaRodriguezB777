@@ -2,4 +2,4 @@
 - 👀 I’m interested in Computer Science and Business
 - 🌱 I’m currently learning at California Institute of Technology in Pasadena, CA
 - 💞️ I’m looking to work in internships and collaborate in projects
-- 📫 How to reach me: ma.rodriguez.b777@gmail.com
+- 📫 How to reach me: mrodrig.work@gmail.com
