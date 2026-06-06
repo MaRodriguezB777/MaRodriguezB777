@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel Rodriguez
-- 👀 I’m interested in Computer Science, Business, and hard Sciences
-- 🌱 I’m currently learning at California Institute of Technology in Pasadena, CA
+- 👀 I’m interested in Computers, Business, and hard Sciences
+- 🌱 I’m currently working out of San Diego @ Qualcomm and attended Caltech in Pasadena, CA
 - 💞️ I’m looking to work collaborate in engaging, rewarding projects
 - 📫 How to reach me: mrodrig.work@gmail.com
